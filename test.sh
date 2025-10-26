@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Helloworld"
+echo "Hello test sample"
